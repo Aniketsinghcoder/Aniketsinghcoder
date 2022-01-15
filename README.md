@@ -28,6 +28,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="35" height="35" />
 </p>
-<br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aniketsinghcoder&show_icons=true&count_private=true" alt="aniketsinghcoder" /></p>
+<h2>📈 Stats</h2>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aniketsinghcoder&show_icons=true&hide_border=true&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghcoder&hide_border=true&theme=radical" />
+</p>
+
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=aniketsinghcoder.aniketsinghcoder" alt="visitors"></p>
+
+<!---
+aniketsinghcoder/aniketsinghcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
