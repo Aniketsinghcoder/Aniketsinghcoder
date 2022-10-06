@@ -35,7 +35,7 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghcoder&hide_border=true&theme=radical" />
 </p>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=aniketsinghcoder.aniketsinghcoder" alt="visitors"></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=aniketsinghcoder.visitor-badge" alt="visitors"></p>
 
 <!---
 aniketsinghcoder/aniketsinghcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
